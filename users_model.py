@@ -12,6 +12,6 @@ class User(Model):
         database = db
 
 # User.create_table()
-# User.create(names="Kevin", email="kkc@gail.com", age=18)
+#User.create(names="Kevin", email="kkk@gail.com", age=98)
 # User.create(names="Liz", email="liz@gail.com", age=16)
 # User.create(names="Eric", email="eric@gail.com", age=19)
